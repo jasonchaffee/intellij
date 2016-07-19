@@ -1,0 +1,100 @@
+<application>
+  <component name="Play2ExcludedModulesSettings">
+    <option name="INFO">
+      <map>
+        <entry key="core">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="sourceDir" value="$USER_HOME$/Git/securesocial/src/main" />
+              <option name="uri" value="$USER_HOME$/Git/securesocial" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="eappearance">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.4.jar" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="focus-app">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="version" value="2.3.4" />
+              <option name="sourceDir" value="$USER_HOME$/Git/teachscape/next-gen/focus-app/app" />
+              <option name="confDir" value="$USER_HOME$/Git/teachscape/next-gen/focus-app/conf" />
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.4.jar" />
+              <option name="routesImports">
+                <list>
+                  <option value="controllers.Assets.Asset" />
+                </list>
+              </option>
+              <option name="uri" value="$USER_HOME$/Git/teachscape/next-gen/focus-app" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="javaDemo">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="sourceDir" value="$USER_HOME$/Git/securesocial/src/main" />
+              <option name="uri" value="$USER_HOME$/Git/securesocial" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="play-silhouette-seed-slick">
+          <value>
+            <ProjectSettingsEntry />
+          </value>
+        </entry>
+        <entry key="root">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="version" value="2.3.6" />
+              <option name="sourceDir" value="$USER_HOME$/Git/eappearance/conf" />
+              <option name="confDir" value="$USER_HOME$/Git/eappearance/app" />
+              <option name="routesImports">
+                <list>
+                  <option value="controllers.Assets.Asset" />
+                </list>
+              </option>
+              <option name="uri" value="$USER_HOME$/Git/eappearance" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="sbt-bom">
+          <value>
+            <ProjectSettingsEntry />
+          </value>
+        </entry>
+        <entry key="scalaDemo">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="sourceDir" value="$USER_HOME$/Git/securesocial/src/main" />
+              <option name="uri" value="$USER_HOME$/Git/securesocial" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="video-app">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="version" value="2.3.4" />
+              <option name="sourceDir" value="$USER_HOME$/Git/teachscape/next-gen/video-app/conf" />
+              <option name="confDir" value="$USER_HOME$/Git/teachscape/next-gen/video-app/app" />
+              <option name="routesImports">
+                <list>
+                  <option value="controllers.Assets.Asset" />
+                </list>
+              </option>
+              <option name="uri" value="$USER_HOME$/Git/teachscape/next-gen/video-app" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSettings">
+    <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
+    <option name="COMPILE_SERVER_ID" value="ea1028f9-0c49-4333-a0ea-6bfec2f61737" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
+  </component>
+</application>
