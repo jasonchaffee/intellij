@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="zsh-theme" type="Bash" />
+      <mapping pattern="DefaultExceptionMapper" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
