@@ -8,6 +8,7 @@
       <mapping ext="plugins" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping pattern="jenvrc" type="Properties" />
     </extensionMap>
   </component>
 </application>
